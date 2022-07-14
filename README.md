@@ -53,5 +53,10 @@ Wumpus World에서 에이전트의 이동과 현재까지 에이전트가 탐험
 대한 격자 세계를 표현한다. 텍스트 모드 혹은 그래픽 모드로 표현할 수 있다.
 
 ## ⚙ Main Function
-=> ppt 참고
+:point_right: ppt자료 참고
+
+## 🛠 Tech Stack
+<strong>언어 : </strong> Python<br>
+<strong>개발환경 : </strong> PyCharm<br>
+
 
